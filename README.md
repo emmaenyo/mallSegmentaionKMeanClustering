@@ -1,5 +1,5 @@
 # mallSegmentaionKMeanClustering
-<h1>Advanced PII Detection in Educational Data Using BERT and ELECTRA</h1>
+<h1>Mall Customer Segmentation (K-Means Clustering)</h1>
 
 <h2>Description</h2>
 In today's digital age, the surge of data from educational platforms has brought significant challenges, especially in protecting personally identifiable information (PII). As educational institutions and researchers increasingly use large datasets to improve learning and innovate teaching methods, ensuring student privacy has become more crucial than ever. This project tackles the balance between using educational data for research and keeping student information confidential. By creating advanced machine learning models,the goal is to detect and anonymize PII effectively. This approach reduces risks and enhances the usefulness of educational datasets for research and development without compromising privacy.
