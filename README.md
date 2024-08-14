@@ -24,6 +24,7 @@ This study focuses on a data of about 200 mall customers. The data contains thei
 <img src="https://imgur.com/lVBBXGa.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
+<h2>Checking our data to see if null values exist </h2>
 
 
 
@@ -32,7 +33,6 @@ This study focuses on a data of about 200 mall customers. The data contains thei
 
 
 
-<h2>Label Mapping and Replacement </h2>
 To facilitate easier processing and improve readability during model training, mapping numerical labels to their corresponding string representations using a predefined dictionary was necessary. This step was essential for maintaining clarity and consistency across the dataset. For instance, numerical labels were converted as follows:
 
 - <b> B-NAME_STUDENT.</b>
