@@ -31,11 +31,14 @@ This study focuses on a data of about 200 mall customers. The data contains thei
 <br />
 
 
+<h2> Retreiving Annual Income on column 3 and Spending Score on coulmn 4 </h2>
 
 
 
 
-To facilitate easier processing and improve readability during model training, mapping numerical labels to their corresponding string representations using a predefined dictionary was necessary. This step was essential for maintaining clarity and consistency across the dataset. For instance, numerical labels were converted as follows:
+
+
+
 
 - <b> B-NAME_STUDENT.</b>
 - <b> I-NAME_STUDENT.</b>
