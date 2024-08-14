@@ -27,7 +27,7 @@ This study focuses on a data of about 200 mall customers. The data contains thei
 <h2>Checking our data to see if null values exist </h2>
 
 <p align="center">
-<img src="https://imgur.com/oJlGunf.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/3RtHKvx.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 
