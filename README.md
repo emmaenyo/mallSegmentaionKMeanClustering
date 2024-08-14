@@ -13,11 +13,11 @@ To determine the optimal number of clusters for K-Means on Mall Customer Data.
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b> Google  Colab</b> (21H2)
 
 <h2>Data Sources and Dataset Description </h2>
 
-This study focuses on a dataset of about 22,000 student essays from a massive open online course (MOOC). The essays were written in response to a standardized prompt, asking students to apply theoretical knowledge to practical problems. This provides a valuable source of natural language data.
+This study focuses on a data of about 200 mall customers. The data contains their gender, age , annual income in dollars and their respective spending score measured over 100
  <br/>
 
 
