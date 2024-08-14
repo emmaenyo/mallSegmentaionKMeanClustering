@@ -33,7 +33,7 @@ This study focuses on a data of about 200 mall customers. The data contains thei
 
 <h2> Retreiving Annual Income on column 3 and Spending Score on coulmn 4 </h2>
 
-
+ <b>  x = df.iloc[:, [3,4]].values </b> 
 
 
 
