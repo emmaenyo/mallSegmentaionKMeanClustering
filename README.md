@@ -20,11 +20,17 @@ To determine the optimal number of clusters for K-Means on Mall Customer Data.
 This study focuses on a data of about 200 mall customers. The data contains their gender, age , annual income in dollars and their respective spending score measured over 100
  <br/>
 
-
-
 <p align="center">
-<img src="https://imgur.com/RnMMPNT.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/lVBBXGa.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+
+
+
+
+
+
+
+
 
 <h2>Label Mapping and Replacement </h2>
 To facilitate easier processing and improve readability during model training, mapping numerical labels to their corresponding string representations using a predefined dictionary was necessary. This step was essential for maintaining clarity and consistency across the dataset. For instance, numerical labels were converted as follows:
