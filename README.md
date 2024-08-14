@@ -2,7 +2,7 @@
 <h1>Mall Customer Segmentation (K-Means Clustering)</h1>
 
 <h2>Purpose</h2>
-To determine the optimal number of clusters for K-Means on Mall Customer Megmentation.
+To determine the optimal number of clusters for K-Means on Mall Customer Data.
 <br />
 
 
