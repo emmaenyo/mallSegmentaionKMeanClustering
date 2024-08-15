@@ -48,8 +48,21 @@ This study focuses on a data of about 200 mall customers. The data contains thei
 <img src="https://imgur.com/umqb4rt.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
+<h2>PLOT THE ELBOW GRAPH TO SHOW WHICH CLUSTERS WHICH HAVE THE MINIMUM VALUES</h2>
+<p align="center">
+<img src="https://imgur.com/5dTslzu.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<h2>ELBOW GRAPH</h2>
+<p align="center">
+<img src="https://imgur.com/3onZlGs.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
 
-<h2>Performing Elbow Method to find optimal No. of Clusters</h2>
+h2>observation</h2>
+- <b> 1</b>
+- <b> 2</b>
 
-<b> As the  PII detection models continue to be refine, commitments to safeguarding student privacy remains unwavering. The journey ahead is promising, and dedication to advancing these tools to ensure educational data serves its purpose ethically and responsibly.</b>
+<h2>Training a model using unsupervised learning algorithm (K-Means)</h2>
+
+
