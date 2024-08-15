@@ -69,3 +69,8 @@ Initializing our K-means model with selected optimal no. of clusters <br/>
 <p align="center">
 <img src="https://imgur.com/Q3P3SQG.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+
+h2>Cluster Visualization</h2>
+<p align="center">
+<img src="https://imgur.com/p2k8YNp.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
