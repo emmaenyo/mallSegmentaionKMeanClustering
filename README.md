@@ -39,13 +39,12 @@ This study focuses on a data of about 200 mall customers. The data contains thei
 <img src="https://imgur.com/VXSY4iS.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
+<h2>Performing Elbow Method to find optimal No. of Clusters</h2>
+
+- <b> from sklearn.cluster import KMeans.</b>
+- <b> NB: WSCC => WITHIN CLUSTER SUMMER SQUARES.</b>
 
 
-
-- <b> B-NAME_STUDENT.</b>
-- <b> I-NAME_STUDENT.</b>
-
-
-<h2>CONCLUSION</h2>
+<h2>Performing Elbow Method to find optimal No. of Clusters</h2>
 
 <b> As the  PII detection models continue to be refine, commitments to safeguarding student privacy remains unwavering. The journey ahead is promising, and dedication to advancing these tools to ensure educational data serves its purpose ethically and responsibly.</b>
