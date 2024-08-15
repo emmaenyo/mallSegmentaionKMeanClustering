@@ -35,7 +35,9 @@ This study focuses on a data of about 200 mall customers. The data contains thei
 
  <b>  x = df.iloc[:, [3,4]].values </b> 
 
-
+<p align="center">
+<img src="https://imgur.com/VXSY4iS.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
 
 
