@@ -65,5 +65,5 @@ h2>observation</h2>
 
 <h2>Training a model using unsupervised learning algorithm (K-Means)</h2>
 Initializing our K-means model with selected optimal no. of clusters <br/>
-
+- <b> We will plot clusters and gain intuitions regarding our customers</b>
 
