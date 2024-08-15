@@ -44,6 +44,11 @@ This study focuses on a data of about 200 mall customers. The data contains thei
 - <b> from sklearn.cluster import KMeans.</b>
 - <b> NB: WSCC => WITHIN CLUSTER SUMMER SQUARES.</b>
 
+<p align="center">
+<img src="https://imgur.com/umqb4rt.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+
 
 <h2>Performing Elbow Method to find optimal No. of Clusters</h2>
 
