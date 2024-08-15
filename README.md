@@ -64,5 +64,6 @@ h2>observation</h2>
 - <b> 2</b>
 
 <h2>Training a model using unsupervised learning algorithm (K-Means)</h2>
+Initializing our K-means model with selected optimal no. of clusters <br/>
 
 
